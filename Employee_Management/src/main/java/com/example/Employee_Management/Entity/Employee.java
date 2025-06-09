@@ -20,4 +20,6 @@ public class Employee {
     private String mobileNumber;
     private String gender;
     private Double salary;
+
+
 }
