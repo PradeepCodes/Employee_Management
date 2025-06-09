@@ -17,6 +17,7 @@ public class EmployeeRestController {
 
     @GetMapping
     public List<Employee> getAll() {
+
         return employeeService.getAllEmployees();
     }
 
