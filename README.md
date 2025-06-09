@@ -13,7 +13,7 @@ IDE (IntelliJ IDEA )
 Clone the repository
 
 
-git clone https://github.com/YourUsername/employee-management.git
+git clone https://github.com/PradeepCodes/Employee_Management
 cd employee-management
 Create the MySQL database
 
