@@ -3,11 +3,17 @@ Java 17+
 
 Maven 3.5.0
 
-MySQL server
+Postgrel 
 
 IDE (IntelliJ IDEA )
 
 (Optional) Postman for API testing
+
+
+Deployed Url
+
+DB Deployment Url : https://dashboard.render.com/d/dpg-d13v49ggjchc73fjpim0-a
+Front End Deployment ur  : https://employee-management-vodx.onrender.com
 
 ⚙️ 1. Project Setup & Configuration
 Clone the repository
