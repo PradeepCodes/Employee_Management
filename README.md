@@ -14,6 +14,7 @@ Deployed Url
 
 DB Deployment Url : https://dashboard.render.com/d/dpg-d13v49ggjchc73fjpim0-a
 Front End Deployment ur  : https://employee-management-vodx.onrender.com
+Swagger = https://employee-management-vodx.onrender.com/swagger-ui/index.html
 
 ⚙️ 1. Project Setup & Configuration
 Clone the repository
