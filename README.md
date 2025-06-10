@@ -47,6 +47,10 @@ spring.jpa.show-sql=true
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 
+# PostgrelConnection for Deployed
+spring.datasource.url=jdbc:postgresql://dpg-d13v49ggjchc73fjpim0-a.oregon-postgres.render.com:5432/employee_management_am10?sslmode=require
+spring.datasource.username=pradeep
+spring.datasource.password=jDo54X1Qm2YmiOZSvgs2nvtzZTKGcVYh
 
 ▶️ 2. Running the Application
 
